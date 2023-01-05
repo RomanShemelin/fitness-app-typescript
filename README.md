@@ -7,5 +7,9 @@ For the frontend React, Typescript, Vite, Tailwind, Hero Icons, Framer Motion, F
 <h4>You are ready to start</h4>
 * start by <b>npm run dev</b> </br>
 
+<h3>You can view the web version by clicking on the link below</h3>
+[fitness-app-typescript](https://3314d63e.fitness-app-typescript.pages.dev/)
+
+
 # Go to main page
 [![2023-01-05-13-17-50.png](https://i.postimg.cc/8PPHBtzs/2023-01-05-13-17-50.png)](https://postimg.cc/LhwLmkfM)
