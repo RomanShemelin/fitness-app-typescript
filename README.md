@@ -1,6 +1,6 @@
 # Evolution fitness gym
 Responsive web application fitness gym.
-For the frontend, React, Typescript, Vite, Tailwind, Hero Icons, Framer Motion, Form Submit, React Anchor Link Smooth Scroll are used.
+For the frontend React, Typescript, Vite, Tailwind, Hero Icons, Framer Motion, Form Submit, React Anchor Link Smooth Scroll are used.
 </br>
 <h3>For start please follow instructions </h3>
 * install all needed dependencies using <b> npm i </b> <br/>
